@@ -13,4 +13,6 @@ The main purpose for this practice:
 
 **2. Use XGBoost and RF to build a prediction model**
 
+Apply SMOTE to fix the imbalance problem
+
 **3. Analysis result based on Recall/ Precision**
